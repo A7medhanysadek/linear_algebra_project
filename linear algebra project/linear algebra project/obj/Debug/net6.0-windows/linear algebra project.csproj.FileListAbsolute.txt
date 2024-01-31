@@ -1,0 +1,24 @@
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear_algebra_project.Form1.resources
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.csproj.GenerateResource.cache
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.AssemblyInfoInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.AssemblyInfo.cs
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.csproj.CoreCompileInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\bin\Debug\net6.0-windows\linear algebra project.exe
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\bin\Debug\net6.0-windows\linear algebra project.deps.json
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\bin\Debug\net6.0-windows\linear algebra project.runtimeconfig.json
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\bin\Debug\net6.0-windows\linear algebra project.dll
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\bin\Debug\net6.0-windows\linear algebra project.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.dll
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\refint\linear algebra project.dll
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.genruntimeconfig.cache
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\ref\linear algebra project.dll
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.csproj.AssemblyReference.cache
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear algebra project.csproj.CopyComplete
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear_algebra_project.equation_collector.resources
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear_algebra_project.linear_system_progress.resources
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear_algebra_project.result_form.resources
+C:\Users\a7med\OneDrive\سطح المكتب\programming projects\linear algebra dr.shreef task\C#\linear algebra project\linear algebra project\obj\Debug\net6.0-windows\linear_algebra_project.main.resources
